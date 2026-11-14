@@ -1,0 +1,6 @@
+{
+  "name": "PingME – PEC Campus Marketplace",
+  "description": "Student-exclusive campus marketplace for PEC Chandigarh to buy, sell, and rent essentials with QR-verified handovers.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
